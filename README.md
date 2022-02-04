@@ -1,3 +1,6 @@
+[![CircleCI](https://circleci.com/gh/buyer-experience-free/spring-service-dlc/tree/master.svg?style=svg)](https://circleci.com/gh/buyer-experience-free/spring-service-dlc/tree/master)
+
+
 # Example site for restaurants built with Victor Hugo
 <!-- Markdown snippet -->
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify/restaurant-template-cms&stack=cms)
